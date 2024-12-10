@@ -57,10 +57,10 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-01 145908](https://github.com/user-attachments/assets/41d092db-e398-4c38-934d-8279a82e7ee4)
+![Screenshot 2024-12-10 145908](https://github.com/user-attachments/assets/41d092db-e398-4c38-934d-8279a82e7ee4)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-12-01 145804](https://github.com/user-attachments/assets/0249714b-6f6f-4ac1-92a2-c54bd39e1a2c)
+**TIM![Screenshot 2024-12-10 145126](https://github.com/user-attachments/assets/c5c93a34-09b4-444e-848e-98c41516415d)
+ING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
 Thus the SR flipflop is implemented successfully and truth table has verified
